@@ -92,6 +92,7 @@ nav ul li a:hover { color: var(--jake-yellow); text-shadow: 0 0 10px var(--jake-
     cursor: pointer;
     box-shadow: 0 0 15px var(--neon-glow);
     transition: 0.3s;
+    border-radius: 8px;
 }
 
 .btn-neon:hover {
